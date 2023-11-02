@@ -10,7 +10,6 @@ Mi sueño es crecer cada dia mas, como profesional en el area del desarrollo web
 👋
 
 
-🔭 Actualmente estoy trabajando en...
 - 🌱 Actualmente estoy aprendiendo: En UTN (Mendoza)
 - 👯 Busco colaborar en: Algun proyecto de ecommerce de la vida real
 - 🤔 Estoy buscando ayuda en herramientas de programacion, cursos complementarios, etc.
