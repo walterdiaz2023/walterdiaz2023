@@ -18,18 +18,18 @@ Mi sueño es crecer cada dia mas, como profesional en el area del desarrollo web
 
 - HABILDADES TECNICAS
 
-Programación front-end 
-Programación back-end 
-Programación full-stack 
-Diseño de bases de datos
-Manejo de SQL server
-Metodología Agile- Scrum
-Lenguaje de Programacion Python
-Lenguaje de Programacion Java
-Conocimiento en Html5
-Conocimiento en Css3
-Conocimiento en Javascript
-Desarrollo web
+- Programación front-end 
+- Programación back-end 
+- Programación full-stack 
+- Diseño de bases de datos
+- Manejo de SQL server
+- Metodología Agile- Scrum
+- Lenguaje de Programacion Python
+- Lenguaje de Programacion Java
+- Conocimiento en Html5
+- Conocimiento en Css3
+- Conocimiento en Javascript
+- Desarrollo web
 
 - IDIOMAS
 
