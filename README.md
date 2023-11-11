@@ -18,9 +18,9 @@ Mi sueño es crecer cada dia mas, como profesional en el area del desarrollo web
 
 - HABILDADES TECNICAS
 
-Programación front-end
-Programación back-end
-Programación full-stack
+Programación front-end 
+Programación back-end 
+Programación full-stack 
 Diseño de bases de datos
 Manejo de SQL server
 Metodología Agile- Scrum
