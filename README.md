@@ -9,7 +9,7 @@ escuchando propuestas y aportando mis ideas.
 Mi sueño es crecer cada dia mas, como profesional en el area del desarrollo web.
 👋
 - FORMACION ACADEMICA
-- 
+
 -Nivel secundario completo
 -Estudiante de Tecnicatura universitaria de programacion en UTN(Mendoza).
 - 👯 Busco colaborar en: Algun proyecto de ecommerce de la vida real
